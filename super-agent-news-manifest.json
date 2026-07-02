@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[eanasir.co](https://eanasir.co/article/claude-marketing-playbook-2026)",
+    "[ahrefs.com](https://ahrefs.com/blog/agentic-marketing/)",
+    "[blog.google](https://blog.google)",
+    "[Memeburn](https://memeburn.com)",
+    "[ALM Corp](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw)",
+    "[SC Media](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa)",
+    "[Security Affairs](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF)"
+  ],
+  "design_plan": "rng=seed(42);AIDA=pass;hero_math=2.4lines@1120px;bento_density=grid-auto-flow:dense;label_sweep=ok;button_contrast=AA+",
+  "generated_at": "2026-07-02T01:15:52.873046+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page that shows how creators and coaches turn calls, DMs, and interviews into publishable content and repeatable operations using a personal AI agent that actually operates a computer and reuses a computer-use cache. Includes fair market context against Folk, Orchids, Siri, ChatGPT, Gemini, and Grok, with current evidence on agentic workflows, computer use, and security considerations."
+}
